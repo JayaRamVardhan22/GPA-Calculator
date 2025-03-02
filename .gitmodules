@@ -1,0 +1,3 @@
+[submodule "CGPA-Calculator"]
+	path = CGPA-Calculator
+	url = https://github.com/NSCC-SRM/CGPA-Calculator.git
